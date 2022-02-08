@@ -22,7 +22,7 @@ html, body {
 }
 
 header, footer{
-    background-color: black;
+    background-color: rgb(190, 187, 0);
     color: white;
     text-align: center;
     padding: 5px;
